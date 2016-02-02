@@ -11,6 +11,7 @@ alias gplot="git pull origin testing"
 alias gckt="git checkout testing"
 alias gckm="git checkout master"
 alias gbr="git branch"
+alias grao="git remote add origin"
 
 alias br=". ~/.bash_profile"
 alias bp="nano ~/.bash_profile"
