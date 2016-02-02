@@ -37,4 +37,24 @@ Then, simply enter `^X` to exit and press `y` when prompted to save. Finally, re
 
 Once executed, subsequent bash editing only requires the shortcut `bp` and reloading only requires a quick `br`. Think of these as acronyms for 'bash profile' and 'bash reload', respectively.
 
-That should be it. Fire away!
+### Commands
+
+All of the shortcuts here are simply acronyms or shortenings for popular git commands. For example, `git status` becomes `gs`, and more lengthy commands such as `git push origin master` becomes `gpsom`. A full list of shortcuts can be found here:
+
+`git remote add origin`: `grao`
+`git status`: `gs`
+`git add`: `ga`
+`git add .`: `gaa`
+`git rm`: `grm`
+`git commit`: `gc`
+`git commit -m`: `gcm`
+`git push`: `gps`
+`git push origin`: `gpso`
+`git push origin master`: `gpsom`
+`git pull`: `gpl`
+`git pull origin`: `gplo`
+`git pull origin master`: `gplom`
+`git branch`: `gbr`
+
+
+These commands look funky, but will become second nature, I promise. The beauty here is that you can follow the simple system of bash aliasing that I've used above to help yourself create your own shortcuts. Happy bashing!
