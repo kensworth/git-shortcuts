@@ -33,7 +33,7 @@ alias grao="git remote add origin"
 alias br=". ~/.bash_profile"
 alias bp="nano ~/.bash_profile"
 ```
-Then, simply enter `^X` to exit and press `y` when prompted to save. Finally, reload your bash profile with the command `. ~/.bash_profile` and your changes should be set. 
+Then, simply enter `^X` to exit and press `y` when prompted to save. Finally, reload your bash profile with `. ~/.bash_profile` and your changes should be set. 
 
 Once executed, subsequent bash editing only requires the shortcut `bp` and reloading only requires a quick `br`. Think of these as acronyms for 'bash profile' and 'bash reload', respectively.
 
