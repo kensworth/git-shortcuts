@@ -42,18 +42,31 @@ Once executed, subsequent bash editing only requires the shortcut `bp` and reloa
 All of the shortcuts here are simply acronyms or shortenings for popular git commands. For example, `git status` becomes `gs`, and more lengthy commands such as `git push origin master` becomes `gpsom`. A full list of shortcuts can be found here:
 
 `git remote add origin`: `grao`
+
 `git status`: `gs`
+
 `git add`: `ga`
+
 `git add .`: `gaa`
+
 `git rm`: `grm`
+
 `git commit`: `gc`
+
 `git commit -m`: `gcm`
+
 `git push`: `gps`
+
 `git push origin`: `gpso`
+
 `git push origin master`: `gpsom`
+
 `git pull`: `gpl`
+
 `git pull origin`: `gplo`
+
 `git pull origin master`: `gplom`
+
 `git branch`: `gbr`
 
 
